@@ -2,11 +2,6 @@
 
 ### Hi there 👋
 
-<!--
-**Jeanpigi/Jeanpigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I am a Web Developer with two years of experiences in education. I am Looking to collaborate in any position about creating web sites due my reaches and goals got. Beside I have certificates of Platzi which is a platform Education online. It has Many courses as programming, design, marketing, web development, Frontend, Backend, Mobile dev, UX, etc. Because I like to learn about Technology. My interests are Nature, Sports, Technology, Books, Psychology, Music, Movies and travel.
 
 - 🌱 I’m currently learning about Deno, TypeScript, Python and Kotlin.
@@ -20,4 +15,4 @@ Here are some ideas to get you started:
 - [Linkedin](https://www.linkedin.com/in/jean-pierre-giovanni-arenas-ortiz-1aa30a153/)
 - [Email](arenaspierre@protonmail.com)
 
--->
+
