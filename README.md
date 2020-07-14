@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about Deno, TypeScript, Python and Kotlin.
 
-- 📫 How to reach me: At the moment, I pursue new opportunities that can improve as person and professional. Whether you need to reach me either through my network social or by phone at +57 3024510763.
+- 📫 How to reach me: At the moment, I pursue new opportunities that can improve as person and professional. Whether you need to reach me either through my network social.
 
 ## Contact
 
