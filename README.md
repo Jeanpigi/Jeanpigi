@@ -10,9 +10,9 @@
 
 ## Contact
 
-- [Facebook](https://www.facebook.com/Bitpierre)
+- [Facebook](https://www.facebook.com/Jpgaobot/)
 - [Twitter](https://twitter.com/Bitpierre)
-- [Linkedin](https://www.linkedin.com/in/jean-pierre-giovanni-arenas-ortiz-1aa30a153/)
+- [Linkedin](https://www.linkedin.com/in/jean-pierre-giovanni-arenas-ortiz/)
 - [Email](arenaspierre@protonmail.com)
 
 
