@@ -1,8 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-RECI5kb2JU9w2JXQXQD7ntX88+1JT+1lnA64uExvJb0/3fMZ1Awf+97Kd7j5ctJApGCPj2p7Hl1+1MhNXy3kA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<!-- Sintaxis general -->
-<i class="fab fa-icon-name"></i>
-
 # Jean Pierre Giovanni Arenas Ortiz
 
 ### Hi there 👋
@@ -30,5 +25,5 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> [JavaScript](https://www.javascript.com)
 - <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> [Unity](https://unity.com/)
 - <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> [Tailwind CSS](https://tailwindcss.com/)
-- <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next.js" width="40" height="40"/> [Next.js](https://nextjs.org/)
-- <img src="https://www.vectorlogo.zone/logos/svelte/svelte-icon.svg" alt="svelte" width="40" height="40"/>  [Svelte](https://svelte.dev)
+- <img src="https://www.vectorlogo.zone/logos/nextjs/next.png" alt="next.js" width="40" height="40"/> [Next.js](https://nextjs.org/)
+- <img src="https://www.vectorlogo.zone/logos/sveltetechnology/svelte-icon.png" alt="svelte" width="40" height="40"/>  [Svelte](https://svelte.dev)
