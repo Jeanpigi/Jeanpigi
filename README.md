@@ -20,3 +20,39 @@
 - [Linkedin](https://www.linkedin.com/in/jean-pierre-giovanni-arenas-ortiz/)<i class="fab fa-linkedin"></i>
 - [Email](arenaspierre@protonmail.com) <i class="fas fa-envelope"></i>
 
+## Languages and Tools:
+
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer">
+    <!-- Agrega aquí la imagen de Go si está disponible -->
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <!-- Agrega aquí la imagen de Python si está disponible -->
+  </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+    <!-- Agrega aquí la imagen de JavaScript si está disponible -->
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <!-- Agrega aquí la imagen de Tailwind CSS si está disponible -->
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <!-- Agrega aquí la imagen de Next.js si está disponible -->
+  </a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+    <!-- Agrega aquí la imagen de Svelte si está disponible -->
+  </a>
+</p>
+
+
