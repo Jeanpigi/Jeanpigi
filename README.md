@@ -32,9 +32,3 @@
 - <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> [Tailwind CSS](https://tailwindcss.com/)
 - <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next.js" width="40" height="40"/> [Next.js](https://nextjs.org/)
 - <img src="https://www.vectorlogo.zone/logos/svelte/svelte-icon.svg" alt="svelte" width="40" height="40"/>  [Svelte](https://svelte.dev)
-
-
-
-
-
-
