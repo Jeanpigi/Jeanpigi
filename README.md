@@ -17,12 +17,15 @@
 
 ### Languages and Tools:
 
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org)
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-[![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org/)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://www.javascript.com)
-[![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)](https://unity.com/)
-[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/)
+### Technologies:
+
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg | width=40)](https://nodejs.org)
+[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg | width=40)](https://www.postgresql.org)
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg | width=40)](https://www.mysql.com/)
+[![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg | width=40)](https://golang.org/)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=40)](https://www.python.org)
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=40)](https://www.javascript.com)
+[![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg | width=40)](https://unity.com/)
+[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg | width=40)](https://tailwindcss.com/)
+
 
