@@ -17,15 +17,13 @@
 
 ### Languages and Tools:
 
-### Technologies:
-
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg | width=40)](https://nodejs.org)
-[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg | width=40)](https://www.postgresql.org)
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg | width=40)](https://www.mysql.com/)
-[![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg | width=40)](https://golang.org/)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=40)](https://www.python.org)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=40)](https://www.javascript.com)
-[![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg | width=40)](https://unity.com/)
-[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg | width=40)](https://tailwindcss.com/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> [Node.js](https://nodejs.org)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> [PostgreSQL](https://www.postgresql.org)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> [MySQL](https://www.mysql.com/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> [Go](https://golang.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> [Python](https://www.python.org)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> [JavaScript](https://www.javascript.com)
+- <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> [Unity](https://unity.com/)
+- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> [Tailwind CSS](https://tailwindcss.com/)
 
 
