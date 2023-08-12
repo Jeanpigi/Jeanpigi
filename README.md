@@ -25,5 +25,5 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> [JavaScript](https://www.javascript.com)
 - <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> [Unity](https://unity.com/)
 - <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> [Tailwind CSS](https://tailwindcss.com/)
-- <img src="https://www.vectorlogo.zone/logos/nextjs/next.png" alt="next.js" width="40" height="40"/> [Next.js](https://nextjs.org/)
-- <img src="https://www.vectorlogo.zone/logos/sveltetechnology/svelte-icon.png" alt="svelte" width="40" height="40"/>  [Svelte](https://svelte.dev)
+- ![Next.js](https://www.vectorlogo.zone/logos/nextjs/next.png) [Next.js](https://nextjs.org/)
+- ![Svelte](https://www.vectorlogo.zone/logos/sveltetechnology/svelte-icon.png) [Svelte](https://svelte.dev)
