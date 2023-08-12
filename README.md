@@ -11,7 +11,7 @@
 ## Contact
 
 - [Facebook](https://www.facebook.com/Jpgaobot/)<i class="fab fa-facebook"></i>
-- [Twitter](https://twitter.com/Bitpierre)<i class="fab fa-twitter"></i>
+- [Twitter](https://twitter.com/Jeanpigiao)<i class="fab fa-twitter"></i>
 - [Linkedin](https://www.linkedin.com/in/jean-pierre-giovanni-arenas-ortiz/)<i class="fab fa-linkedin"></i>
 - [Email](arenaspierre@protonmail.com) <i class="fas fa-envelope"></i>
 
