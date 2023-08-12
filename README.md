@@ -22,17 +22,18 @@
 
 ### Languages and Tools:
 
-- ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) [Node.js](https://nodejs.org)
-- ![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) [PostgreSQL](https://www.postgresql.org)
-- ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) [MySQL](https://www.mysql.com/)
-- ![go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg) [Go](https://golang.org/)
-- ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [Python](https://www.python.org)
-- ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) [JavaScript](https://www.javascript.com)
-- ![unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) [Unity](https://unity.com/)
-- ![tailwindcss](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) [Tailwind CSS](https://tailwindcss.com/)
-- ![next.js](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg) [Next.js](https://nextjs.org/)
-- ![svelte](https://www.vectorlogo.zone/logos/svelte/svelte-icon.svg) [Svelte](https://svelte.dev)
-- ![postcss](https://www.vectorlogo.zone/logos/postcss/postcss-icon.svg) [PostCSS](https://postcss.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> [Node.js](https://nodejs.org)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> [PostgreSQL](https://www.postgresql.org)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> [MySQL](https://www.mysql.com/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> [Go](https://golang.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> [Python](https://www.python.org)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> [JavaScript](https://www.javascript.com)
+- <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> [Unity](https://unity.com/)
+- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> [Tailwind CSS](https://tailwindcss.com/)
+- <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next.js" width="40" height="40"/> [Next.js](https://nextjs.org/)
+- <img src="https://www.vectorlogo.zone/logos/svelte/svelte-icon.svg" alt="svelte" width="40" height="40"/>  [Svelte](https://svelte.dev)
+
+
 
 
 
