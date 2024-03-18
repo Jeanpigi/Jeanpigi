@@ -1,4 +1,4 @@
-![Mi Banner](banner.webp)
+![Mi Banner](Banner.webp)
 
 # Jean Pierre Giovanni Arenas Ortiz
 
