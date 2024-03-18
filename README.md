@@ -1,3 +1,5 @@
+![Mi Banner](banner.webp)
+
 # Jean Pierre Giovanni Arenas Ortiz
 
 ### Hi there 👋
