@@ -1,4 +1,4 @@
-### Hi, soy Jean Pierre Giovanni Arenas Ortiz 👋
+### Hi, soy Jean 👋
 
 - 🔭 Expert web developer with years of experiences in the tech industry. Skilled in building websites, apps, and video games using tools such as Go, Python, JavaScript, C#, Docker, Node.js, Deno, Git, and various libraries and frameworks. Proficient in managing Windows Server, AWS, backups, virtualization, and video editing. Fluent in Spanish, English, and French. Seeking web development opportunities to leverage my expertise and achievements. Certified by Platzi, an online education platform offering courses in programming, design, marketing, web development, frontend/backend development, mobile development, and UX. Let's collaborate to achieve your web development goals.
 
