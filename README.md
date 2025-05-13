@@ -10,12 +10,6 @@
 
 - 📫 How to reach me: At the moment, I pursue new opportunities that can improve as person and professional. Whether you need to reach me either through my network social.
 
-## Contact
-
-- [Facebook](https://www.facebook.com/Jpgaobot/)<i class="fab fa-facebook"></i>
-- [Twitter](https://twitter.com/Jeanpigiao)<i class="fab fa-twitter"></i>
-- [Linkedin](https://www.linkedin.com/in/jean-pierre-giovanni-arenas-ortiz/)<i class="fab fa-linkedin"></i>
-
 ### Languages and Tools:
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> [Node.js](https://nodejs.org)
