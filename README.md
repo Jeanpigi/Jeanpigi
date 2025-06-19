@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about AI and cybersecurity.
 
-- 📫 How to reach me: At the moment, I pursue new opportunities that can improve as person and professional. Whether you need to reach me either through my network social.
+- 📫 How to reach me: At the moment, I pursue new opportunities that can improve as person and professional.
 
 ### Languages and Tools:
 
