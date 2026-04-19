@@ -1,24 +1,73 @@
-### Hi, soy Jean 👋
+<div align="center">
 
-- 🔭 Expert web developer with years of experiences in the tech industry. Skilled in building websites, apps, and video games using tools such as Go, Python, JavaScript, C#, Docker, Node.js, Deno, Git, and various libraries and frameworks. Proficient in managing Windows Server, AWS, backups, virtualization, and video editing. Fluent in Spanish, English, and French. Seeking web development opportunities to leverage my expertise and achievements. Certified by Platzi, an online education platform offering courses in programming, design, marketing, web development, frontend/backend development, mobile development, and UX. Let's collaborate to achieve your web development goals.
+# Hi, I'm Jean 👋
 
-#### About me
+**Full-Stack Developer · Game Developer · DevOps**
 
+Fluent in Spanish, English & a little French · Open to new opportunities
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierre.handshake924@passmail.net)
 
-- 🌱 I’m currently learning about AI and cybersecurity.
+</div>
 
-- 📫 At the moment, I pursue new opportunities that can improve as person and professional.
+---
 
-### Languages and Tools:
+## About Me
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> [Node.js](https://nodejs.org)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> [PostgreSQL](https://www.postgresql.org)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> [MySQL](https://www.mysql.com/)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> [Go](https://golang.org/)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> [Python](https://www.python.org)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> [JavaScript](https://www.javascript.com)
-- <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> [Unity](https://unity.com/)
-- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> [Tailwind CSS](https://tailwindcss.com/)
+- Expert web developer with years of experience building **websites**, **apps**, and **video games**
+- Proficient in **Windows Server**, **AWS**, backups, and virtualization
+- Currently diving deeper into **AI** and **cybersecurity**
+- Certified by **Platzi** in programming, web/mobile development, frontend/backend, and UX
+- Seeking web development opportunities where I can leverage my expertise
 
+---
 
+## Languages & Tools
+
+### Backend & Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" width="40" height="40"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</p>
+
+### Game Development
+<p>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanpigi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpigi&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
